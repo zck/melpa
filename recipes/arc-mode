@@ -1,0 +1,1 @@
+(arc-mode :fetcher github :repo "arclanguage/anarki" :files ("extras/arc.el" "extras/inferior-arc.el"))
